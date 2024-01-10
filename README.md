@@ -14,3 +14,6 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 Provided Mock-up Dashboard
 ![image](https://github.com/Shivani-1996/AtliQ-Hospitality-Analysis---PowerBI/assets/130754305/f0b00cb6-b136-42b5-8687-9a2e9be02770)
+
+
+  
